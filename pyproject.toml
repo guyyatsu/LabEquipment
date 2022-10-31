@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "LabEquipment"
+version = "0.0.2"
+authors = [
+  { name="Hunter Dale", email="guyyatsu@gmail.com" },
+]
+description = "A handy toolkit used the personal HomeLab of Hunter Dale."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GPLv3 License",
+    "Operating System :: Linux",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/guyyatsu/Lab93"
+"Bug Tracker" = "https://github.com/guyyatsu/Lab93/issues"

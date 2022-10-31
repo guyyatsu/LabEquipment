@@ -1,0 +1,9 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/LabEquipment/LabEquipment.py
+src/LabEquipment/__init__.py
+src/LabEquipment.egg-info/PKG-INFO
+src/LabEquipment.egg-info/SOURCES.txt
+src/LabEquipment.egg-info/dependency_links.txt
+src/LabEquipment.egg-info/top_level.txt
